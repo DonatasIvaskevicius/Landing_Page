@@ -1,0 +1,349 @@
+/*#home
+{
+	background: #8a8a8a;
+}
+body > div > div > div
+{
+	width: 100%;
+	height: 350px;
+	padding: 90px;
+}
+body > div > div > div  p
+{
+	font-size: 0.6em;
+	
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: medium;
+}
+body > div > div > div  img
+{
+	padding: 0 10px;
+	
+}
+
+body > div > div > div h1
+{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+body > div > div > div h3
+{
+	font-size: 1.2em;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+
+/*--------- NAVIGATION ----------*/
+/*a.nav-link
+{
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+#navbarResponsive > ul > li:nth-child(8) > a > i
+{
+	color: #00a99d;
+}*/
+/*--------- THREE COLUMN SECTION ----------*/
+/*#home
+{
+	background: #8a8a8a;
+}*/
+/*--------- DEFAULT VALUES FOR ALL----------------------*/
+h1,h2,h3,h3,h5
+{
+	color:#383838;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+p
+{
+	color:#383838;
+	font-family: 'Raleway', sans-serif;
+	font-weight: medium;
+}
+/*------JUMBATRON-----------*/
+.jumbatron
+{
+	background: #8a8a8a;
+	padding: 5%;
+}
+div.jumbatron p:nth-child(1)
+{
+	font-size: 0.7em;
+	margin: 0px;
+}
+div.jumbatron p:nth-child(3)
+{
+font-size: 0.7em;
+color: #fff;
+
+
+}
+div.jumbatron span:nth-child(1)
+{
+	background:#333333;
+	
+	border: solid #333333;
+	border-radius: 10px; 
+}
+/*-----NAVIGATION----*/
+li.nav-item a
+{
+	color: #383838;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold; 
+}
+li.nav-item a:hover
+{
+	color: #fff !important;
+	border: solid #00a99d;
+	border-radius: 8px;
+	background: #00a99d;
+}
+li.nav-item i
+{
+	color:#00a99d;
+}
+li.nav-item i:hover
+{
+	color: #fff;
+}
+/*-----THREE COLUMN AREA--------*/
+.what-we-offer
+{
+	padding:5%;
+}
+.what-we-offer img
+{
+	padding: 10px;
+}
+.features-header
+{
+	font-size: 1.3em;
+}
+.features-paragraph
+{
+	font-size: 0.8em;
+	font
+}
+/*------TWO COLUMN ARE---------*/
+.amazing-features
+{
+	background: #383838;
+	padding:3%;
+}
+.features img
+{
+
+	display: inline;
+	padding: 10px;
+}
+.media h5
+{
+	color: #fff;
+	font-size: 1em;
+}
+.media p
+{
+	color: #7a7a7a;
+	font-size: 0.8em;
+}
+.more-features-media
+{
+	padding:10px;
+}
+.more-features-media h5
+{
+	font-size: 1.1em;
+	color:#383838;
+}
+.more-features-media p:nth-child(2)
+{
+	font-size:0.8em;
+	color:#aaaaaa;
+}
+.per-are
+{
+	background:#383838;
+	padding:5%;
+}
+.percentage-area p
+{
+	color:#606060;
+}
+.prec{
+    top: 30px;
+    position: relative;
+    font-size: 1.2em;
+    font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	color:#fff;
+}
+.circle{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: #383838;
+}
+.active-border{
+    position: relative;
+    text-align: center;
+    width: 110px;
+    height: 110px;
+    border-radius: 100%;
+    background-color:#00a99d;
+    background-image:
+        linear-gradient(162deg, transparent 50%, #ebebeb 50%),
+        linear-gradient(90deg, #ebebeb 50%, transparent 50%);
+    
+}
+.perc-title
+{
+	padding: 10px;
+	color: #8a8a8a;
+	font-weight: bold;
+	font-size:0.7em;
+}
+/*-------PORTFOLIO ------*/
+.images
+{
+	padding: 1px; 
+
+}
+.images:hover
+{
+	background-image: url("img/image-hovered.png");
+}
+.no-gutters
+{
+	margin-right: 0;
+  	margin-left: 0;
+}
+.butt-block
+{
+	padding:10px;
+	background-color: :#00a99d;
+}
+.buttonas
+{
+	background-color: #00a99d !important;
+	border-color: #00a99d;
+}
+.buttonas:hover
+{
+	background-color: #00a99d !important;
+	border-color: #00a99d;
+}
+/*-----FACTS AREA-----*/
+.com-fa
+{
+	background:#383838;
+	padding:5%;
+}
+.facts p
+{
+	color: #5b5b5b;
+	font-size:0.8em;
+}
+.facts h1
+{
+	font-size: 3.5em;
+	color:#e4e4e4;
+}
+.com-fa-fo
+{
+	background-color:#00a99d;
+	padding:1%; 
+}
+.com-fa-p p
+{
+	color:#fff;
+}
+/*-----TEAM MEMBERS----*/
+.mem-area
+{
+	padding:5%;
+}
+/*---TEAM MEMBERS FOOTER---*/
+.team-foot
+{
+	background:#00a99d;
+	padding:5%;
+}
+.team-foot p
+{
+	padding: 15px;
+	color: #fff;
+}
+/*------SPONSER AREA-----*/
+.spons-area
+{
+	background:#383838; 
+}
+.spon-img
+{
+	padding:3%;
+}
+/*---PIRCES FOOTER----*/
+.prices-foot
+{
+	background:#8a8a8a;
+	padding:1%;
+}
+.prices-foot p
+{
+	color:#383838;
+	font-weight: bold;
+}
+.prices-foot button
+{
+	background-color:#00a99d;
+	border-color:#00a99d;
+	color:#fff;
+	font-weight: bold;
+}
+/*---LINKS---*/
+.links-area
+{
+	background:#383838;
+	padding: 5%;
+}
+.links
+{
+	padding: 2%;
+}
+/*---FOOTER---*/
+.footr
+{
+
+}
+.map-container-section {
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.map-container-section iframe {
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+.fot-fot
+{
+	
+	background:#383838;
+	padding: 1%; 
+}
+.fot-fot p
+{
+	color: #fff;
+}
